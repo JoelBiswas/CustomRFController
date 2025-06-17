@@ -1,0 +1,17 @@
+Part,Quanitty,Unit Price,Price,Link,CAD Link
+nRF24L01+ PA/LNA Radio Module,1,$7.99,$7.99,https://www.amazon.com/MakerFocus-NRF24L01-Transceiver-Antistatic-Compatible/dp/B01IK78PQA,https://grabcad.com/library/wireless-transceiver-module-2-4g-1100m-nrf24l01-pa-lna-1
+ESP-WROOM-32 Microcontroller,1,$0.00,$0.00,N/A,https://grabcad.com/library/esp32-wroom-32d-devkit-ch340-usb-c-1
+Button,6,$0.00,$0.00,N/A,
+Joystick,1,$6.29,$6.29,https://www.amazon.com/Joystick-Control-Sensor-Dual-Axis-Arduino/dp/B0DH2G1PVP?sr=1-5,https://grabcad.com/library/ky-023-joystick-module-1
+2S Lipo,1,$11.49,$11.49,https://www.amazon.com/OVONIC-Battery-Dean-Style-Connector-Vehicles/dp/B07T7GZ5C2?sr=8-16,
+MP1584EN Buck Convertor,1,$8.29,$8.29,https://www.amazon.com/AITRIP-MP1584EN-Converter-Adjustable-Supply/dp/B08DHS5XVK?sr=8-2,https://grabcad.com/library/detailed-d-sun-mp1584en-dc-dc-step-down-voltage-regulator-1
+Decoupling Capacitors,1,$9.99,$9.99,https://www.amazon.com/dp/B0C1V8Q93P,
+Male Connector Pins,1,$4.99,$4.99,https://www.amazon.com/MCIGICM-Header-2-45mm-Arduino-Connector/dp/B07PKKY8BX?sr=8-3,
+T Connectors,1,$6.99,$6.99,https://www.amazon.com/FLY-RC-T-Plug-Connectors-Battery/dp/B07BHCFXJZ?sr=8-2,https://grabcad.com/library/t-plug-deans-connector-male-and-female-connector-1
+PCB,1,$51.75,$51.75,https://cart.jlcpcb.com/quote?orderType=1&homeUploadNum=b20ce10e571640fda0a057915b708303&businessType=example&fileName=RFController.zip,
+Deburring Tool,1,$8.00,$8.00,https://www.amazon.com/Deburring-Tool-10Pcs-HSS-Blades/dp/B09376DFYP?sr=8-10,
+PCB Clamp,1,$13.40,$13.40,https://www.amazon.com/Noah-Adjustable-Soldering-Desoldering-Rotation/dp/B0CY4DRHWK?sr=8-6,
+PLA Orange ,1,$18.99,$18.99,https://www.amazon.com/ANYCUBIC-Printer-Filament-Dimensional-Accuracy/dp/B0CZRJXDJ2?sr=8-3,
+,,,,,
+,,Total,,,
+,,$148.17,,,

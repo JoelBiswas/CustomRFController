@@ -1,0 +1,121 @@
+(footprint "Deans_Connector"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d912e7e4-c9f2-4690-afc8-ab0cdbf48ba6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Deans_Connector"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "71b39abd-12f8-4310-badb-0a2b2873e712")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f2a4a11-4038-4232-9204-63276ccbe921")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a736c1a2-b1db-4114-b41a-36cd99a9902b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -6.325 6.05)
+		(end -0.375 12.45)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d9beca86-affc-4c47-8fa5-b9b3fd8f0b7b")
+	)
+	(fp_rect
+		(start -0.375 5.375)
+		(end 7.375 13.125)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8f013075-3a19-41ec-864d-9b0527fb3238")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4f4f9ad7-dc4a-4903-b2d3-b9df0c999734")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 3.575 9.375 90)
+		(size 3.4 2)
+		(drill oval 2.8 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "ce489a63-15f0-4c4a-925b-7a7cf9e55c2b")
+	)
+	(pad "2" thru_hole oval
+		(at -2.5 8.65)
+		(size 3.4 2)
+		(drill oval 2.8 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "61234404-00b8-4791-b35b-0401e0e5d533")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/KiCADExtra/MaleTPlug.STEP"
+		(offset
+			(xyz 7.35 -9.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

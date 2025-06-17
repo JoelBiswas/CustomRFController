@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"5V TO 3.3V1, 7.4V TO 5V1",MP1584_Module,2,~,
+BT1,Deans_Connector,1,7.4V,
+C1,C_Disc_D4.3mm_W1.9mm_P5.00mm,1,10 uF,
+C2,C_Disc_D4.3mm_W1.9mm_P5.00mm,1,0.1 uF,
+ESP32,ESP32_DevKitC_30,1,~,
+"JOYSTICK1, JOYSTICK2",KY-023_Module,2,~,
+RADIO1,NRF24L01_PA_LNA,1,~,
+"SW1, SW2, SW3, SW4, SW5, SW6",SW_PUSH_6mm,6,SW_Push,

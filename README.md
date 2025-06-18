@@ -1,4 +1,4 @@
-# CustomRFController
+# Custom Star Wars RF Controller
 This repository contains the files to build a custom RF controller in the shape of the Rebel Alliance Logo from Star Wars. The controller consists of two joysticks, six buttons, and is controlled by an ESP32. This project was created entirely by me for Hack Club's Highway to Undercity event. My plan is to test this device by using to control an [R2-D2 droid that I designed](https://github.com/JoelBiswas/r2d2/tree/main) for the same Hack Club event earlier this summer.
 
 ![TopView](https://github.com/user-attachments/assets/143f9d58-209f-4534-bad4-7e8569faec4b)

@@ -6,7 +6,8 @@ This repository contains the files to build a custom RF controller in the shape 
 ## Bill of Materials
 View the Bill of Materials [here](https://docs.google.com/spreadsheets/d/1eimf_XqeCwkksVUzqHQLZJRxSmD6-AT-35apM8Ljc3Q/edit?usp=sharing)
 
-<img width="1174" alt="Screenshot 2025-06-19 at 11 37 43 AM" src="https://github.com/user-attachments/assets/4227aafb-dc54-4fd5-80e7-228aa85afe4f" />
+<img width="1220" alt="Screenshot 2025-06-19 at 11 42 58 AM" src="https://github.com/user-attachments/assets/1d4440ea-4282-4e6d-875e-3e4d190041e1" />
+
 
 
 ## The Beginning

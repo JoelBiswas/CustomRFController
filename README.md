@@ -6,6 +6,9 @@ This repository contains the files to build a custom RF controller in the shape 
 ## Bill of Materials
 View the Bill of Materials [here](https://docs.google.com/spreadsheets/d/1eimf_XqeCwkksVUzqHQLZJRxSmD6-AT-35apM8Ljc3Q/edit?usp=sharing)
 
+<img width="1174" alt="Screenshot 2025-06-19 at 11 37 43 AM" src="https://github.com/user-attachments/assets/4227aafb-dc54-4fd5-80e7-228aa85afe4f" />
+
+
 ## The Beginning
 The idea for this project came after finishing my last project, an R2-D2 droid controlled with a PS3 controller. I thought that it would be interesting to make my own Star Wars-themed RF transmitter to control the droid with. I hoped that this would provide the robot with much greater range than a Bluetooth-based controller. This project felt perfect as I was looking to start a project that expands my electrical skills. My last project was heavily focused on CAD, so I wanted this project to be more focused on wiring schematic and PCB design. Like the droid, this project is also made for Hack Club's Highway to Undercity event, which provides high school students with grants to build their dream projects.
 

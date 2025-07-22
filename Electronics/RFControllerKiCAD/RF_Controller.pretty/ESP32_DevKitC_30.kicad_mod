@@ -708,9 +708,9 @@
 		(uuid "bdca5002-c795-4547-8aff-ebbe979d8ffc")
 	)
 	(embedded_fonts no)
-	(model "/Users/joel/Files/Family/Joel/Robotics/RFController/Electronics/RFControllerKiCAD/KiCADExtra/esp32.step"
+	(model "${KIPRJMOD}/KiCADExtra/esp32.step"
 		(offset
-			(xyz 0.3 -49 0)
+			(xyz 0.25 -49.1 0)
 		)
 		(scale
 			(xyz 1 1 1)

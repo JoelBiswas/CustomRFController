@@ -992,7 +992,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "NRF24L01+_PA/LNA"
+	(symbol "NRF24L01_PA_LNA"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1039,7 +1039,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "NRF24L01+_PA/LNA_0_1"
+		(symbol "NRF24L01_PA_LNA_0_1"
 			(rectangle
 				(start -10.16 -1.27)
 				(end 11.43 -33.02)
@@ -1052,7 +1052,7 @@
 				)
 			)
 		)
-		(symbol "NRF24L01+_PA/LNA_1_1"
+		(symbol "NRF24L01_PA_LNA_1_1"
 			(text "nRF24L01+ PA/LNA"
 				(at 0 0.254 0)
 				(effects
